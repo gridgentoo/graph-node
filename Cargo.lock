@@ -1559,6 +1559,7 @@ dependencies = [
  "serde",
  "serde_json",
  "serde_regex",
+ "shellexpand",
  "structopt",
  "toml",
  "url 2.1.1",
@@ -3745,6 +3746,15 @@ checksum = "8cebcf3a403e4deafaf34dc882c4a1b6a648b43e5670aa2e4bb985914eaeb2d2"
 dependencies = [
  "libc",
  "winapi 0.3.8",
+]
+
+[[package]]
+name = "shellexpand"
+version = "2.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9a2b22262a9aaf9464d356f656fea420634f78c881c5eebd5ef5e66d8b9bc603"
+dependencies = [
+ "dirs 2.0.2",
 ]
 
 [[package]]

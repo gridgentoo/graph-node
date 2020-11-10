@@ -1,5 +1,9 @@
 GraphQL :: исходный код сервера индексации, который позволяет разработчикам эффективно запрашивать данные Ethereum и IPFS для своих децентрализованных приложений через интерфейс GraphQL.
 
+GraphQL станет основой Интернета Web3.0 для криптовалюты
+
+https://claudi7.medium.com/graphql-станет-основой-децентрализованного-интернета-1b070a368bc5
+
 # Graph Node
 
 **Note:** This project is a heavily WIP and until it reaches v1.0, the API is subject to change in breaking ways without notice.
